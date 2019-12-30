@@ -1,0 +1,22 @@
+// Use IntelliSense to learn about possible attributes.
+// Hover to view descriptions of existing attributes.
+// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Logistic_Regression_Multi_Classification.py (1)",
+      "type": "python",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/",
+      "program": "${workspaceFolder}/ Logistic_Regression_Multi_Classification.py"
+    },
+    {
+      "name": "Launch ex3_nn_representation.py",
+      "type": "python",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/",
+      "program": "${workspaceFolder}/ex3_nn_representation.py"
+    }
+  ]
+}
