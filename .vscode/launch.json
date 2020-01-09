@@ -10,6 +10,13 @@
       "request": "launch",
       "cwd": "${workspaceFolder}/ex3",
       "program": "${workspaceFolder}/ex3/ Logistic_Regression_Multi_Classification.py"
+    },
+    {
+      "name": "Launch ex3_Logistic_Regression_Multi_Classification.py",
+      "type": "python",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/ex3",
+      "program": "${workspaceFolder}/ex3/ ex3_Logistic_Regression_Multi_Classification.py"
     }
   ]
 }
